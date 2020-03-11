@@ -1,2 +1,2 @@
-# products-retail
-rest APIs to get retail from NOSQL using pymongo
+# products-catalog
+Product catalog service in Flask Using Pymongo
