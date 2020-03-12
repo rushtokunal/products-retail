@@ -58,4 +58,4 @@ def delete_tasks(product_id):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=5002,debug=True)
